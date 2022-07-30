@@ -1,9 +1,11 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
+- 😄 My name is: Sasipa Phromlat
+- ⚡ Student id: 63366110 
 - 🔭 I'm currently studying on Faculty of Engineering.
-
+- 🤖 I want to be a software developer.
+- 🤦🏽‍♂️ The program that can be written is python.
+- ✨ I'm good at operating systems and Interested in Theory of computation. 
 ## Developer Tech
 
 ### Frameworks 
